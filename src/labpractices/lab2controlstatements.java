@@ -21,7 +21,7 @@ public class lab2controlstatements {
 //        System.out.println("navhneet"+c2+"wadhwa");
 //        System.out.println("navhneet"+c3+"wadhwa");
 
-        //-urinary operator---
+        //-uranary operator---
 //        int a =4;
 //        int b = -2;
 //        int c =a*b;
@@ -42,7 +42,9 @@ public class lab2controlstatements {
        // a++;
         //System.out.println(a);
 
-        //not (!) ----------- logical operator--------
+        //-------------------not (!) -- logical operator--------
+
+
 //        System.out.println(!(10>20));--true
 //        System.out.println(!!(10>20));--false
 //        System.out.println(!!!(10>20));--true
@@ -50,6 +52,7 @@ public class lab2controlstatements {
 //        System.out.println((10>20));----false
 
         //---------OR(||) logical oprator----------
+
 //        System.out.println(true||true);----true
 //        System.out.println(true||false);---true     -----becaz if anyone is true from both it gives true
 //        System.out.println(false||true);----true
@@ -65,6 +68,13 @@ public class lab2controlstatements {
         //--------inteview question----
         //int a =12;
        // System.out.println(!(a>10||a<5));---false
+
+//        int age = 20;
+//        if(age>=18);{
+//            System.out.println("eligible for vote");}
+//        }
+
+
 
 
 

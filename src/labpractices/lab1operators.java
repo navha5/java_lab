@@ -35,6 +35,7 @@ public class lab1operators {
 //        System.out.println(a>=b);
 //        System.out.println(a!=b);
 
+
         //logical operators(&&,||,!)
         //boolean x = false;
        // boolean y = true;
@@ -76,12 +77,29 @@ public class lab1operators {
        // System.out.println("after swap value of a is :" + b);
 
 
-        int a =28;
-        int b = 5;
-        int c = a;
-        a=b;
-        b=c;
-        System.out.println("after swap a is" + a);
+//        int a =28;
+//        int b = 5;
+//        int c = a;
+//        a=b;
+//        b=c;
+//        System.out.println("after swap a is" + a);
+
+        //--------if,elseif,else(condition statements----------
+
+       // int number= 10;
+
+//        if(number>11) {
+//            System.out.println("positive");}
+//        else if(number<0) {
+//            System.out.println("negetive");}
+//        else {
+//            System.out.println("zero");}
+
+//        int age = 20;
+//        if(age >=18) {
+//            System.out.println("eligible for vote");}
+//        else {
+//            System.out.println("not eligible for vote");}
 
 
 
